@@ -718,7 +718,30 @@
           
           <!-- Bagian Gambar -->
           <img src="nama-gambar-kamu.jpg" alt="Produk Baru" style="width: 100%; border-radius: 14px; margin-bottom: 20px; object-fit: cover; aspect-ratio: 1/1;">
+           <!-- YOUTUBE PREMIUM 1 BULAN -->
+        <div class="product-card">
+          
+          <!-- Bagian Gambar -->
+          <img src="youtube.jpg" alt="Youtube Premium" style="width: 100%; border-radius: 14px; margin-bottom: 20px; object-fit: cover; aspect-ratio: 1/1;">
 
+          <h3>Youtube Premium 1 Bulan</h3>
+          
+          <p>
+            Akun premium, garansi penuh 30 hari.
+          </p>
+
+          <div class="price">
+            Rp 35.000
+          </div>
+
+          <a
+            href="https://wa.me/6282249211189?text=Halo%20Natsumi%20Digital%2C%20saya%20mau%20order%20Youtube%20Premium%201%20Bulan%20Rp35.000."
+            target="_blank"
+            class="order-btn">
+            Order Sekarang
+          </a>
+
+        </div>
           <h3>Nama Produk Barumu</h3>
           
           <p>
