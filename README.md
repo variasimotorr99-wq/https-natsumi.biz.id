@@ -712,6 +712,31 @@
           </a>
 
         </div>
+        
+        <!-- PRODUK BARU DENGAN GAMBAR (POSISI YANG BENAR) -->
+        <div class="product-card">
+          
+          <!-- Bagian Gambar -->
+          <img src="nama-gambar-kamu.jpg" alt="Produk Baru" style="width: 100%; border-radius: 14px; margin-bottom: 20px; object-fit: cover; aspect-ratio: 1/1;">
+
+          <h3>Nama Produk Barumu</h3>
+          
+          <p>
+            Tulis penjelasan singkat tentang produk barumu di sini.
+          </p>
+
+          <div class="price">
+            Rp 50.000
+          </div>
+
+          <a
+            href="https://wa.me/6282249211189?text=Halo%20Natsumi%20Digital%2C%20saya%20mau%20order%20Produk%20Baru."
+            target="_blank"
+            class="order-btn">
+            Order Sekarang
+          </a>
+
+        </div>
 
       </div>
 
@@ -862,30 +887,6 @@
     </div>
 
   </footer>
-<!-- PRODUK BARU DENGAN GAMBAR -->
-    <div class="product-card">
-      
-      <!-- Bagian Gambar -->
-      <img src="nama-gambar-kamu.jpg" alt="Produk Baru" style="width: 100%; border-radius: 14px; margin-bottom: 20px; object-fit: cover; aspect-ratio: 1/1;">
-
-      <h3>Nama Produk Barumu</h3>
-      
-      <p>
-        Tulis penjelasan singkat tentang produk barumu di sini.
-      </p>
-
-      <div class="price">
-        Rp 50.000
-      </div>
-
-      <a
-        href="https://wa.me/6282249211189?text=Halo%20Natsumi%20Digital%2C%20saya%20mau%20order%20Produk%20Baru."
-        target="_blank"
-        class="order-btn">
-        Order Sekarang
-      </a>
-
-    </div>
 
 </body>
 </html>
